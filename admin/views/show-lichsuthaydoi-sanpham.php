@@ -1,0 +1,9 @@
+<?php
+    	include "../../connect.php";
+    
+?>
+<?php
+   
+   $content = '../../admin/display-lichsuthaydoi-sanpham.php';
+   include '../layout/layout_admin.php';
+?>
